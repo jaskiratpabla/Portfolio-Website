@@ -1,2 +1,2 @@
 # Portfolio-Website
-Personal portfolio website to showcase my project work and experiences.
+This is the code for my personal portfolio website, which is hosted through Netlify.
