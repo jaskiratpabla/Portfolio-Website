@@ -1,0 +1,126 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Portfolio Website",
+            "bodyText": "- Developer Portfolio Website made in React, JavaScript, JSX\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jaskiratpabla/Website-Portfolio"
+                }
+            ],
+            "tags" : [
+                "Portfolio",
+                "React",
+                "JavaScript",
+                "JSX",
+                "OOP"
+            ]
+        },
+        {
+            "image" : "images/projects/moviehub-poster.png",
+            "title": "MovieHub: Movie Rental Library",
+            "bodyText": "- Developed a comprehensive full-stack web application utilizing Flask to create RESTful APIs, Angular for a dynamic frontend experience, and MySQL for robust database management of 1,000,000+ entries.\n - Integrated features for users to rent and review movies, with a sophisticated search and filtering system powered by SQL queries, and personalized movie recommendations based on users’ rental histories of 1000+ users.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jaskiratpabla/Movie-Rental-Library"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Flask",
+                "JavaScript",
+                "React",
+                "Angular",
+                "MySQL",
+                "Git",
+                "OOP"
+            ]
+        },
+        {
+            "image" : "images/projects/colour-swatch-poster.png",
+            "title": "Colour Swatches",
+            "bodyText": "- Created a dynamic web application by utilizing TypeScript to maintain the backend model and notify frontend components of state changes via Preact Signals, and Object-Oriented Programming (OOP).\n - Enabled users to adjust HSL, RGB, and Hex values for numerous colour swatches, with canvas updates within a frame, also includes features to add, delete, and synchronize colour representations across 10+ unique formats.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jaskiratpabla/Colour-Swatch"
+                }
+            ],
+            "tags" : [
+                "TypeScript",
+                "Preact",
+                "TSX",
+                "Git",
+                "OOP"
+            ]
+        },
+        {
+            "title": "Biquadris: 2-Player Tetris",
+            "bodyText": "- Applied object-oriented programming principles such as inheritance, polymorphism, and design patterns in C++, with added graphic support and unique two-player functionalities, leveraging Bash and Git for version control.\n - Implemented a custom-built graphics library to create a graphical user interface for the game, and integrated a custom-built networking library to enable multiplayer functionality.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jaskiratpabla/Biquadris"
+                }
+            ],
+            "tags" : [
+                "C++",
+                "Bash",
+                "Git",
+                "OOP"
+            ]
+        },
+        {
+            "title": "OS Features & Functionality",
+            "bodyText": "- Implemented many crucial features for OS/161 in C, developed functionality includes multithreading and concurrency, synchronization, processes (in both kernel and user spaces), virtual memory, page tables, and scheduling algorithms.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jaskiratpabla/OS161-Functionality"
+                }
+            ],
+            "tags" : [
+                "OS161",
+                "C",
+                "Git",
+                "OOP"
+            ]
+        },
+        {
+            "title": "Connect 4 with Minimax AI",
+            "bodyText": "- The game of Connect 4 in Python with a Minimax algorithm and search heuristics with varying depth levels.\n - Play against the Minimax AI agent yourself, play against a friend, or have two Minimax agents play each other!",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jaskiratpabla/Connect-4-with-Minimax"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Minimax",
+                "Git",
+                "OOP"
+            ]
+        },
+        {
+            "title": "Battleship",
+            "bodyText": "- The game of battleship in Python, full documentation and testing is included.\n - Uses Pytest for testing and Sphinx for documentation.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jaskiratpabla/Battleship"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Pytest",
+                "Sphinx",
+                "Git",
+                "OOP"
+            ]
+        }
+    ]
+}

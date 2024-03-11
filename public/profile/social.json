@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/jaskirat-pabla/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/jaskiratpabla"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:jaspabla10@gmail.com"
+        }
+    ]
+}

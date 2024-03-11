@@ -1,0 +1,154 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+                {
+                    "icon": "images/skills/c-plus-plus.svg",
+                    "title": "C/C++"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
+                },
+                {
+                    "icon": "images/skills/html-css.png",
+                    "title": "HTML/CSS"
+                },
+                {
+                    "icon": "images/skills/php.png",
+                    "title": "PHP"
+                },
+                {
+                    "icon": "images/skills/Rlogo.png",
+                    "title": "R"
+                },
+                {
+                    "icon": "images/skills/matlab.png",
+                    "title": "Matlab"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/ibmdb2.png",
+                    "title": "IBM DB2"
+                },
+                {
+                    "icon": "images/skills/DynamoDB.png",
+                    "title": "DynamoDB"
+                },
+                {
+                    "icon": "images/skills/postgresql.png",
+                    "title": "PostgreSQL"
+                }
+        ]},
+        {
+            "title": "Frameworks & Libraries",
+            "items" : [
+                {
+                    "icon": "images/skills/pytorch.png",
+                    "title": "PyTorch"
+                },
+                {
+                    "icon": "images/skills/tensorflow.png",
+                    "title": "Tensorflow"
+                },
+                {
+                    "icon": "images/skills/spacy.png",
+                    "title": "SpaCy"
+                },
+                {
+                    "icon": "images/skills/nltk.png",
+                    "title": "NLTK"
+                },
+                {
+                    "icon": "images/skills/pandas.png",
+                    "title": "Pandas"
+                },
+                {
+                    "icon": "images/skills/numpy.png",
+                    "title": "NumPy"
+                },
+                {
+                    "icon": "images/skills/matplotlib.png",
+                    "title": "Matplotlib"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/Preact.png",
+                    "title": "Preact"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Node.js"
+                },
+                {
+                    "icon": "images/skills/jsx.png",
+                    "title": "JSX"
+                },
+                {
+                    "icon": "images/skills/tsx.png",
+                    "title": "TSX"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Technologies",
+            "items": [
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/bash.png",
+                    "title": "Bash/zsh"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
+                },
+                {
+                    "icon": "images/skills/junit.png",
+                    "title": "JUnit"
+                },
+                {
+                    "icon": "images/skills/apacheairflow.png",
+                    "title": "Apache Airflow"
+                },
+                {
+                    "icon": "images/skills/circleci.png",
+                    "title": "CircleCI"
+                },
+                {
+                    "icon": "images/skills/powerbi.png",
+                    "title": "Power BI"
+                },
+                {
+                    "icon": "images/skills/jira.png",
+                    "title": "Jira"
+                }
+            ]
+    }
+]}
