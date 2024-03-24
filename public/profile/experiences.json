@@ -5,9 +5,9 @@
             "subtitle": "Resolution Life",
             "workType": "Full-time Internship",
             "workDescription": [
-                "Deployed serverless functions for the document reverse engineering AI model in **AWS Lambda** with data being stored and queried via a **DynamoDB** database on a training dataset of **75,000+** diverse documents.",
-                "Constructed and deployed CI/CD pipelines, through **CircleCI** for the AI model, enhancing system reliability by **40%** and reducing release downtime by **25%**.",
-                "Developed a user interface using **React** by integrating the AI model's technologies in **Docker**, enabling users to query and generate documents with tags and filters in less than **2 seconds**."
+                "Deployed serverless functions for a document reverse engineering AI model in **AWS Lambda** with data being stored and queried via a **DynamoDB** database on a training dataset of **75,000+** diverse documents.",
+                "Constructed and deployed CI/CD pipelines through **CircleCI** for the model, enhancing system reliability by **40%** and reducing release downtime by **25%**.",
+                "Developed a user interface using **React** and integrated the project's technologies in **Docker**, enabling users to query and generate documents with tags and filters in less than **2 seconds**."
             ],
             "dateText": "Jan 2023 - Apr 2023"
         },
@@ -17,8 +17,8 @@
             "workType": "Full-time Internship",
             "workDescription": [
                 "Spearheaded the development of a document reverse engineering AI model using NLP techniques in **spaCy** and **NLTK**, resulting in a **75%** reduction in document processing time and saving **$1,000,000+** in acquisition costs.",
-                "Trained the AI model using ML libraries **PyTorch** and **TensorFlow** for matrices and tensors to derive relations between values, the model was also sold as a microservice resulting in **$10,000+** of additional revenue.",
-                "Launched a comprehensive test suite utilizing **Pytest** to perform unit, integration and system testing to automate model evaluation and utilize testing to enhance document regeneration accuracy by over **90%**."
+                "Trained the model using ML libraries **PyTorch** and **TensorFlow** to derive relations between values, the model was also sold as a microservice resulting in **$10,000+** of additional revenue.",
+                "Launched a comprehensive test suite utilizing **Pytest** to perform unit, integration and system testing to automate model evaluation enhancing document regeneration accuracy by over **90%**."
             ],
             "dateText": "Sep 2022 - Dec 2022"
         },
@@ -27,9 +27,9 @@
             "subtitle": "Canadian Automobile Association",
             "workType": "Full-time Internship",
             "workDescription": [
-                "Created a conversational AI chatbot using **Google Dialogflow** to answer questions from tow facilities and CAA employees, which reduced the time to read manuals by over **50%**.",
-                "Designed and maintained informative webpages using **Javascript** and **React** to provide CAA employees and tow facility personnel across **100+ teams** with up-to-date information on Gen 2 features and updates.",
-                "Established a centralized knowledge base using **Wiki.js** to manage **1000+** software manuals, streamlining access through tags and search filters while providing responses within **1 second**."
+                "Created a conversational AI chatbot using **Google Dialogflow** to answer questions for towing facilities and CAA employees, which reduced the time and need to read manuals by over **50%**.",
+                "Designed and maintained informative webpages using **JavaScript** and **React** to provide CAA employees and towing facility personnel across **100+ teams** with up-to-date information on Gen 2 features and updates.",
+                "Established a centralized knowledge base using **Wiki.js** to manage **1000+ software manuals**, streamlining access through tags and advanced search filters while providing responses within **1 second**."
             ],
             "dateText": "Sep 2021 - Dec 2021"
         },
@@ -38,7 +38,7 @@
             "subtitle": "Canadian Automobile Association",
             "workType": "Full-time Internship",
             "workDescription": [
-                "Engineered dynamic dispatch algorithms leveraging GPS Data (**Reverse Geocoding API**) and predictive analysis (**Gen 2**) in **Python** and utilizing **Twilio** for real-time dispatching, thereby reducing service times by over **25%**.",
+                "Engineered dynamic algorithms leveraging **Reverse Geocoding API** data and predictive analysis in **Python** to dispatch real-time messages to towing facilities through **Twilio**, thereby reducing service times by over **25%**.",
                 "Integrated the algorithms into production using **APIs**, **Python**, and **Power BI**, which facilitated real-time dispatching based on proximity and predicated demand to improve customer satisfaction rates by **40%**.",
                 "Automated ETL processes and optimized data workflows via **Apache Airflow**, which resulted in a **15%** reduction in latency and significantly improved the reliability of data delivery for real-time analytics."
             ],

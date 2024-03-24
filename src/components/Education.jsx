@@ -47,7 +47,6 @@ function Education(props) {
           <div style={{ width }} className="section-content-container">
             <Container>
               <Chrono
-                hideControls
                 allowDynamicUpdate
                 useReadMore={false}
                 items={data.education}

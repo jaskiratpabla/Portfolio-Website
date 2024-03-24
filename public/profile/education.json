@@ -2,18 +2,21 @@
     "education":[
         {
             "title": "Sep 2020 - Apr 2025",
-            "cardTitle": "Bachelor of Computer Science: Software Engineering Specialization, Economics Minor",
+            "cardTitle": "Bachelor of Computer Science, Minor in Economics",
             "cardSubtitle":"University of Waterloo, Ontario",
-            "cardDetailedText": "CGPA - 3.7/4.0",
+            "cardDetailedText": "Coursework: Data Structures, Algorithms, Operating Systems, Artificial Intelligence, Databases, User Interfaces, Computer Security",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/uofwaterloo.png"
             }
         },
         {
-            "title": "Apr 20XX",
+            "title": "Jun 2020",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 96%"
+            "cardSubtitle":"Castlebrooke Secondary School, Ontario",
+            "cardDetailedText": "Awards: Honours List, TC Community Leaders Scholarship, DECA Regionals & Provincials Champion",
+            "icon" : {
+                "src": "images/education/castlebrooke.jpg"
+            }
         }
     ]
 }
