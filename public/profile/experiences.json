@@ -5,7 +5,7 @@
             "subtitle": "Resolution Life",
             "workType": "Full-time Internship",
             "workDescription": [
-                "Deployed serverless functions for a document reverse engineering AI model in **AWS Lambda** with data being stored and queried via a **DynamoDB** database on a training dataset of **75,000+** diverse documents.",
+                "Deployed serverless functions for a document reverse engineering AI model in **AWS Lambda** with data being stored and queried via a **DynamoDB** database on a training dataset of **75,000+ diverse documents**.",
                 "Constructed and deployed CI/CD pipelines through **CircleCI** for the model, enhancing system reliability by **40%** and reducing release downtime by **25%**.",
                 "Developed a user interface using **React** and integrated the project's technologies in **Docker**, enabling users to query and generate documents with tags and filters in less than **2 seconds**."
             ],
