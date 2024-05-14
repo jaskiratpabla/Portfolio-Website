@@ -1,6 +1,16 @@
 {
     "experiences": [
         {
+            "title": "Software Engineer",
+            "subtitle": "The Hospital for Sick Children (SickKids)",
+            "workType": "Full-time Internship",
+            "workDescription": [
+                "Developed code using **Python**, **WDL**, **Nextflow**, and **Perl** for SickKids' Gene Expression and Gene Validation pipelines, to identify mutational patterns in large data sets of whole transcriptions and whole genomes.",
+                "Optimized code and workflows to enhance runtime efficiency by **10%** for the cloud-based **Slurm HPC** cluster using **Docker** and **Singularity** containers."
+            ],
+            "dateText": "May 2024 - Aug 2024"
+        },
+        {
             "title": "Full Stack Engineer",
             "subtitle": "Resolution Life",
             "workType": "Full-time Internship",
@@ -24,7 +34,7 @@
         },
         {
             "title": "Software Engineer",
-            "subtitle": "Canadian Automobile Association",
+            "subtitle": "The Canadian Automobile Association (CAA)",
             "workType": "Full-time Internship",
             "workDescription": [
                 "Created a conversational AI chatbot using **Google Dialogflow** to answer questions for towing facilities and CAA employees, which reduced the time and need to read manuals by over **50%**.",
@@ -35,7 +45,7 @@
         },
         {
             "title": "Data Engineer",
-            "subtitle": "Canadian Automobile Association",
+            "subtitle": "The Canadian Automobile Association (CAA)",
             "workType": "Full-time Internship",
             "workDescription": [
                 "Engineered dynamic algorithms leveraging **Reverse Geocoding API** data and predictive analysis in **Python** to dispatch real-time messages to towing facilities through **Twilio**, thereby reducing service times by over **25%**.",
