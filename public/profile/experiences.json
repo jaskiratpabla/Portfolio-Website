@@ -3,7 +3,7 @@
         {
             "title": "Research Student",
             "subtitle": "The Hospital for Sick Children (SickKids)",
-            "workType": "Full-time Internship",
+            "workType": "Full-time Co-op",
             "workDescription": [
                 "Created and deployed **Docker** and **Singularity** containers to package and distribute bioinformatics tools and custom **Python** scripts, also updated references of FV to GRCh38 and GENCODE V46.",
                 "Optimized **HPC/HPF** job submissions and leveraged **Cromwell** to improve task scheduling, resulting in a significantly better turnaround time of the FV pipeline from **7 days** to running in **under 1 day**.",
@@ -14,7 +14,7 @@
         {
             "title": "Summer Research Student",
             "subtitle": "The Hospital for Sick Children (SickKids)",
-            "workType": "Full-time Internship",
+            "workType": "Full-time Co-op",
             "workDescription": [
                 "Implemented new functionality to the Shlien Lab Gene Expression (GEX) pipeline to perform **STAR** alignment and **Arriba** fusion calling, and received positive comments from fellow lab members that use the GEX pipeline.",
                 "Overhauled the Shlien Lab/Clinical Fusion Validator (FV) pipeline, converting **Perl** code to **WDL** and **Python** using knowledge of cancer, gene fusions and Next-Generation Sequencing (NGS) data.",
@@ -25,7 +25,7 @@
         {
             "title": "Full Stack Engineer",
             "subtitle": "Resolution Life",
-            "workType": "Full-time Internship",
+            "workType": "Full-time Co-op",
             "workDescription": [
                 "Deployed **Docker** containers and cloud pipelines for a document reverse engineering AI model in **AWS Lambda** with data stored and queried via **DynamoDB** databases on a training dataset of **75,000+ diverse documents**.",
                 "Constructed and deployed CI/CD pipelines through **CircleCI** for the AI model, enhancing system reliability by **40%** and reducing release downtime by **25%**.",
@@ -36,7 +36,7 @@
         {
             "title": "Machine Learning Engineer",
             "subtitle": "Resolution Life",
-            "workType": "Full-time Internship",
+            "workType": "Full-time Co-op",
             "workDescription": [
                 "Led the development of a document reverse engineering AI model using NLP techniques in **spaCy** and **NLTK**, resulting in a **75%** reduction in document processing time and saving **$1,000,000+** in acquisition costs.",
                 "Trained the model using Machine Learning libraries, **PyTorch** and **TensorFlow**, on the data.",
@@ -48,7 +48,7 @@
         {
             "title": "Software Engineer",
             "subtitle": "The Canadian Automobile Association (CAA)",
-            "workType": "Full-time Internship",
+            "workType": "Full-time Co-op",
             "workDescription": [
                 "Created a conversational AI chatbot using **Google Dialogflow** to answer questions for towing facilities and CAA employees, which reduced the time and need to read manuals by over **50%**.",
                 "Designed and maintained informative webpages using **JavaScript** and **React** to provide CAA employees and towing facility personnel across **100+ teams** with up-to-date information on Gen 2 features and updates.",
@@ -59,7 +59,7 @@
         {
             "title": "Data Engineer",
             "subtitle": "The Canadian Automobile Association (CAA)",
-            "workType": "Full-time Internship",
+            "workType": "Full-time Co-op",
             "workDescription": [
                 "Engineered dynamic algorithms leveraging **Reverse Geocoding API** data and predictive analysis in **Python** to dispatch real-time messages to towing facilities through **Twilio**, thereby reducing service times by over **25%**.",
                 "Integrated the algorithms into production using **APIs**, **Python**, and **Power BI**, which facilitated real-time dispatching based on proximity and predicated demand to improve customer satisfaction rates by **40%**.",
