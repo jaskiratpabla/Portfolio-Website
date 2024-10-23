@@ -1,12 +1,24 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
+            "title": "Research Student",
             "subtitle": "The Hospital for Sick Children (SickKids)",
             "workType": "Full-time Internship",
             "workDescription": [
-                "Developed code using **Python**, **WDL**, **Nextflow**, and **Perl** for SickKids' Gene Expression and Gene Validation pipelines, to identify mutational patterns in large data sets of whole transcriptions and whole genomes.",
-                "Optimized code and workflows to enhance runtime efficiency by **10%** for the cloud-based **Slurm HPC** cluster using **Docker** and **Singularity** containers."
+                "Created and deployed **Docker** and **Singularity** containers to package and distribute bioinformatics tools and custom **Python** scripts, also updated references of FV to GRCh38 and GENCODE V46.",
+                "Optimized **HPC/HPF** job submissions and leveraged **Cromwell** to improve task scheduling, resulting in a significantly better turnaround time of the FV pipeline from **7 days** to running in **under 1 day**.",
+                "Tested against SeraSeq V3 and V4 samples and achieved **100% sensitivity**, exceeding the original pipeline's performance and even identifying fusions, such as TMPRSS2-ERG, that the original pipeline could never find."
+            ],
+            "dateText": "Sep 2024 - Dec 2024"
+        },
+        {
+            "title": "Summer Research Student",
+            "subtitle": "The Hospital for Sick Children (SickKids)",
+            "workType": "Full-time Internship",
+            "workDescription": [
+                "Implemented new functionality to the Shlien Lab Gene Expression (GEX) pipeline to perform **STAR** alignment and **Arriba** fusion calling, and received positive comments from fellow lab members that use the GEX pipeline.",
+                "Overhauled the Shlien Lab/Clinical Fusion Validator (FV) pipeline, converting **Perl** code to **WDL** and **Python** using knowledge of cancer, gene fusions and Next-Generation Sequencing (NGS) data.",
+                "Reformed FV by eliminating unnecessary logic to streamline processes, redesigning algorithms to enhance performance, and substituting inefficient logic with faster alternatives to improve throughput."
             ],
             "dateText": "May 2024 - Aug 2024"
         },
@@ -15,9 +27,9 @@
             "subtitle": "Resolution Life",
             "workType": "Full-time Internship",
             "workDescription": [
-                "Deployed serverless functions for a document reverse engineering AI model in **AWS Lambda** with data being stored and queried via a **DynamoDB** database on a training dataset of **75,000+ diverse documents**.",
-                "Constructed and deployed CI/CD pipelines through **CircleCI** for the model, enhancing system reliability by **40%** and reducing release downtime by **25%**.",
-                "Developed a user interface using **React** and integrated the project's technologies in **Docker**, enabling users to query and generate documents with tags and filters in less than **2 seconds**."
+                "Deployed **Docker** containers and cloud pipelines for a document reverse engineering AI model in **AWS Lambda** with data stored and queried via **DynamoDB** databases on a training dataset of **75,000+ diverse documents**.",
+                "Constructed and deployed CI/CD pipelines through **CircleCI** for the AI model, enhancing system reliability by **40%** and reducing release downtime by **25%**.",
+                "Enhanced user query response times to under **2 seconds** by developing a **React** user interface to generate insurance documents from dynamic tags and advanced filters."
             ],
             "dateText": "Jan 2023 - Apr 2023"
         },
@@ -26,9 +38,10 @@
             "subtitle": "Resolution Life",
             "workType": "Full-time Internship",
             "workDescription": [
-                "Spearheaded the development of a document reverse engineering AI model using NLP techniques in **spaCy** and **NLTK**, resulting in a **75%** reduction in document processing time and saving **$1,000,000+** in acquisition costs.",
-                "Trained the model using ML libraries **PyTorch** and **TensorFlow** to derive relations between values, the model was also sold as a microservice resulting in **$10,000+** of additional revenue.",
-                "Launched a comprehensive test suite utilizing **Pytest** to perform unit, integration and system testing to automate model evaluation enhancing document regeneration accuracy by over **90%**."
+                "Led the development of a document reverse engineering AI model using NLP techniques in **spaCy** and **NLTK**, resulting in a **75%** reduction in document processing time and saving **$1,000,000+** in acquisition costs.",
+                "Trained the model using Machine Learning libraries, **PyTorch** and **TensorFlow**, on the data.",
+                "Generalized the model to reproduce more than just insurance documents, so that it could be applied to other fields of study and sold as a microservice resulting in **$10,000+** of additional revenue.",
+                "Launched a comprehensive test suite utilizing **Pytest** and other testing tools to perform unit, integration and system testing to automate model evaluation, enhancing document regeneration accuracy by over **90%**."
             ],
             "dateText": "Sep 2022 - Dec 2022"
         },
